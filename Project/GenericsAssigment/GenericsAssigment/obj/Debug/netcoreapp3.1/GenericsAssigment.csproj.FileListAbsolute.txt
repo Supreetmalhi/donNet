@@ -1,0 +1,13 @@
+C:\Users\Hp\OneDrive\Documents\Project\GenericsAssigment\GenericsAssigment\bin\Debug\netcoreapp3.1\GenericsAssigment.exe
+C:\Users\Hp\OneDrive\Documents\Project\GenericsAssigment\GenericsAssigment\bin\Debug\netcoreapp3.1\GenericsAssigment.deps.json
+C:\Users\Hp\OneDrive\Documents\Project\GenericsAssigment\GenericsAssigment\bin\Debug\netcoreapp3.1\GenericsAssigment.runtimeconfig.json
+C:\Users\Hp\OneDrive\Documents\Project\GenericsAssigment\GenericsAssigment\bin\Debug\netcoreapp3.1\GenericsAssigment.runtimeconfig.dev.json
+C:\Users\Hp\OneDrive\Documents\Project\GenericsAssigment\GenericsAssigment\bin\Debug\netcoreapp3.1\GenericsAssigment.dll
+C:\Users\Hp\OneDrive\Documents\Project\GenericsAssigment\GenericsAssigment\bin\Debug\netcoreapp3.1\GenericsAssigment.pdb
+C:\Users\Hp\OneDrive\Documents\Project\GenericsAssigment\GenericsAssigment\obj\Debug\netcoreapp3.1\GenericsAssigment.csprojAssemblyReference.cache
+C:\Users\Hp\OneDrive\Documents\Project\GenericsAssigment\GenericsAssigment\obj\Debug\netcoreapp3.1\GenericsAssigment.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Documents\Project\GenericsAssigment\GenericsAssigment\obj\Debug\netcoreapp3.1\GenericsAssigment.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Documents\Project\GenericsAssigment\GenericsAssigment\obj\Debug\netcoreapp3.1\GenericsAssigment.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Documents\Project\GenericsAssigment\GenericsAssigment\obj\Debug\netcoreapp3.1\GenericsAssigment.dll
+C:\Users\Hp\OneDrive\Documents\Project\GenericsAssigment\GenericsAssigment\obj\Debug\netcoreapp3.1\GenericsAssigment.pdb
+C:\Users\Hp\OneDrive\Documents\Project\GenericsAssigment\GenericsAssigment\obj\Debug\netcoreapp3.1\GenericsAssigment.genruntimeconfig.cache

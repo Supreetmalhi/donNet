@@ -1,0 +1,13 @@
+C:\Users\lenovo\Downloads\Console Assigment & Asp mvc Assigment\Project\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\netcoreapp3.1\ClassMethodAssignment.exe
+C:\Users\lenovo\Downloads\Console Assigment & Asp mvc Assigment\Project\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\netcoreapp3.1\ClassMethodAssignment.deps.json
+C:\Users\lenovo\Downloads\Console Assigment & Asp mvc Assigment\Project\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\netcoreapp3.1\ClassMethodAssignment.runtimeconfig.json
+C:\Users\lenovo\Downloads\Console Assigment & Asp mvc Assigment\Project\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\netcoreapp3.1\ClassMethodAssignment.runtimeconfig.dev.json
+C:\Users\lenovo\Downloads\Console Assigment & Asp mvc Assigment\Project\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\netcoreapp3.1\ClassMethodAssignment.dll
+C:\Users\lenovo\Downloads\Console Assigment & Asp mvc Assigment\Project\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\netcoreapp3.1\ClassMethodAssignment.pdb
+C:\Users\lenovo\Downloads\Console Assigment & Asp mvc Assigment\Project\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.1\ClassMethodAssignment.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\Console Assigment & Asp mvc Assigment\Project\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.1\ClassMethodAssignment.AssemblyInfoInputs.cache
+C:\Users\lenovo\Downloads\Console Assigment & Asp mvc Assigment\Project\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.1\ClassMethodAssignment.AssemblyInfo.cs
+C:\Users\lenovo\Downloads\Console Assigment & Asp mvc Assigment\Project\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.1\ClassMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\Console Assigment & Asp mvc Assigment\Project\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.1\ClassMethodAssignment.dll
+C:\Users\lenovo\Downloads\Console Assigment & Asp mvc Assigment\Project\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.1\ClassMethodAssignment.pdb
+C:\Users\lenovo\Downloads\Console Assigment & Asp mvc Assigment\Project\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.1\ClassMethodAssignment.genruntimeconfig.cache

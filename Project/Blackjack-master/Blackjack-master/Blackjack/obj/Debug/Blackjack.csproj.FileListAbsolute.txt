@@ -1,0 +1,6 @@
+C:\Users\Hp\Downloads\Blackjack-master\Blackjack-master\Blackjack\bin\Debug\Blackjack.dll
+C:\Users\Hp\Downloads\Blackjack-master\Blackjack-master\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\Hp\Downloads\Blackjack-master\Blackjack-master\Blackjack\obj\Debug\Blackjack.csprojAssemblyReference.cache
+C:\Users\Hp\Downloads\Blackjack-master\Blackjack-master\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\Blackjack-master\Blackjack-master\Blackjack\obj\Debug\Blackjack.dll
+C:\Users\Hp\Downloads\Blackjack-master\Blackjack-master\Blackjack\obj\Debug\Blackjack.pdb

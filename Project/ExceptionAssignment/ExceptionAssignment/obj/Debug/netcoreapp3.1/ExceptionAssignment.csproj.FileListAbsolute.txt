@@ -1,0 +1,13 @@
+C:\Users\Hp\OneDrive\Documents\Project\ExceptionAssignment\ExceptionAssignment\bin\Debug\netcoreapp3.1\ExceptionAssignment.exe
+C:\Users\Hp\OneDrive\Documents\Project\ExceptionAssignment\ExceptionAssignment\bin\Debug\netcoreapp3.1\ExceptionAssignment.deps.json
+C:\Users\Hp\OneDrive\Documents\Project\ExceptionAssignment\ExceptionAssignment\bin\Debug\netcoreapp3.1\ExceptionAssignment.runtimeconfig.json
+C:\Users\Hp\OneDrive\Documents\Project\ExceptionAssignment\ExceptionAssignment\bin\Debug\netcoreapp3.1\ExceptionAssignment.runtimeconfig.dev.json
+C:\Users\Hp\OneDrive\Documents\Project\ExceptionAssignment\ExceptionAssignment\bin\Debug\netcoreapp3.1\ExceptionAssignment.dll
+C:\Users\Hp\OneDrive\Documents\Project\ExceptionAssignment\ExceptionAssignment\bin\Debug\netcoreapp3.1\ExceptionAssignment.pdb
+C:\Users\Hp\OneDrive\Documents\Project\ExceptionAssignment\ExceptionAssignment\obj\Debug\netcoreapp3.1\ExceptionAssignment.csprojAssemblyReference.cache
+C:\Users\Hp\OneDrive\Documents\Project\ExceptionAssignment\ExceptionAssignment\obj\Debug\netcoreapp3.1\ExceptionAssignment.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Documents\Project\ExceptionAssignment\ExceptionAssignment\obj\Debug\netcoreapp3.1\ExceptionAssignment.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Documents\Project\ExceptionAssignment\ExceptionAssignment\obj\Debug\netcoreapp3.1\ExceptionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Documents\Project\ExceptionAssignment\ExceptionAssignment\obj\Debug\netcoreapp3.1\ExceptionAssignment.dll
+C:\Users\Hp\OneDrive\Documents\Project\ExceptionAssignment\ExceptionAssignment\obj\Debug\netcoreapp3.1\ExceptionAssignment.pdb
+C:\Users\Hp\OneDrive\Documents\Project\ExceptionAssignment\ExceptionAssignment\obj\Debug\netcoreapp3.1\ExceptionAssignment.genruntimeconfig.cache

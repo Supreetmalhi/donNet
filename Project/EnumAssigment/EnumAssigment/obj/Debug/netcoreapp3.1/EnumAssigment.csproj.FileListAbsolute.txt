@@ -1,0 +1,13 @@
+C:\Users\Hp\OneDrive\Documents\Project\EnumAssigment\EnumAssigment\bin\Debug\netcoreapp3.1\EnumAssigment.exe
+C:\Users\Hp\OneDrive\Documents\Project\EnumAssigment\EnumAssigment\bin\Debug\netcoreapp3.1\EnumAssigment.deps.json
+C:\Users\Hp\OneDrive\Documents\Project\EnumAssigment\EnumAssigment\bin\Debug\netcoreapp3.1\EnumAssigment.runtimeconfig.json
+C:\Users\Hp\OneDrive\Documents\Project\EnumAssigment\EnumAssigment\bin\Debug\netcoreapp3.1\EnumAssigment.runtimeconfig.dev.json
+C:\Users\Hp\OneDrive\Documents\Project\EnumAssigment\EnumAssigment\bin\Debug\netcoreapp3.1\EnumAssigment.dll
+C:\Users\Hp\OneDrive\Documents\Project\EnumAssigment\EnumAssigment\bin\Debug\netcoreapp3.1\EnumAssigment.pdb
+C:\Users\Hp\OneDrive\Documents\Project\EnumAssigment\EnumAssigment\obj\Debug\netcoreapp3.1\EnumAssigment.csprojAssemblyReference.cache
+C:\Users\Hp\OneDrive\Documents\Project\EnumAssigment\EnumAssigment\obj\Debug\netcoreapp3.1\EnumAssigment.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Documents\Project\EnumAssigment\EnumAssigment\obj\Debug\netcoreapp3.1\EnumAssigment.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Documents\Project\EnumAssigment\EnumAssigment\obj\Debug\netcoreapp3.1\EnumAssigment.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Documents\Project\EnumAssigment\EnumAssigment\obj\Debug\netcoreapp3.1\EnumAssigment.dll
+C:\Users\Hp\OneDrive\Documents\Project\EnumAssigment\EnumAssigment\obj\Debug\netcoreapp3.1\EnumAssigment.pdb
+C:\Users\Hp\OneDrive\Documents\Project\EnumAssigment\EnumAssigment\obj\Debug\netcoreapp3.1\EnumAssigment.genruntimeconfig.cache

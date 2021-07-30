@@ -1,0 +1,13 @@
+C:\Users\Hp\OneDrive\Documents\Project\FileIOAssignment\FileIOAssignment\bin\Debug\netcoreapp3.1\FileIOAssignment.exe
+C:\Users\Hp\OneDrive\Documents\Project\FileIOAssignment\FileIOAssignment\bin\Debug\netcoreapp3.1\FileIOAssignment.deps.json
+C:\Users\Hp\OneDrive\Documents\Project\FileIOAssignment\FileIOAssignment\bin\Debug\netcoreapp3.1\FileIOAssignment.runtimeconfig.json
+C:\Users\Hp\OneDrive\Documents\Project\FileIOAssignment\FileIOAssignment\bin\Debug\netcoreapp3.1\FileIOAssignment.runtimeconfig.dev.json
+C:\Users\Hp\OneDrive\Documents\Project\FileIOAssignment\FileIOAssignment\bin\Debug\netcoreapp3.1\FileIOAssignment.dll
+C:\Users\Hp\OneDrive\Documents\Project\FileIOAssignment\FileIOAssignment\bin\Debug\netcoreapp3.1\FileIOAssignment.pdb
+C:\Users\Hp\OneDrive\Documents\Project\FileIOAssignment\FileIOAssignment\obj\Debug\netcoreapp3.1\FileIOAssignment.csprojAssemblyReference.cache
+C:\Users\Hp\OneDrive\Documents\Project\FileIOAssignment\FileIOAssignment\obj\Debug\netcoreapp3.1\FileIOAssignment.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Documents\Project\FileIOAssignment\FileIOAssignment\obj\Debug\netcoreapp3.1\FileIOAssignment.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Documents\Project\FileIOAssignment\FileIOAssignment\obj\Debug\netcoreapp3.1\FileIOAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Documents\Project\FileIOAssignment\FileIOAssignment\obj\Debug\netcoreapp3.1\FileIOAssignment.dll
+C:\Users\Hp\OneDrive\Documents\Project\FileIOAssignment\FileIOAssignment\obj\Debug\netcoreapp3.1\FileIOAssignment.pdb
+C:\Users\Hp\OneDrive\Documents\Project\FileIOAssignment\FileIOAssignment\obj\Debug\netcoreapp3.1\FileIOAssignment.genruntimeconfig.cache
