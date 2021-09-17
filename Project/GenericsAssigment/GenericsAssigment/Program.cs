@@ -1,74 +1,27 @@
 ﻿
 using System;
+using System.Collections.Generic;
 
 namespace GenericsAssigment
 {
     class Program
     {
-        public class Employee<T>
-        {
-
-
-
-            // private data members 
-
-            private T data;
-
-
-
-            // using properties 
-
-            public T value
-
-            {
-
-
-
-                // using accessors 
-
-                get
-
-                {
-
-                    return this.data;
-
-                }
-
-                set
-
-                {
-
-                    this.data = value;
-
-                }
-
-            }
-        }
+        
+        
         static void Main(string[] args)
         {
-            Employee<string> name = new Employee<string>();
+            // Create a object Of Employee with String
+            Employee<string> StringThings = new Employee<string>();
+            List<string> strList= new List<string>() { "HEllo","World"};
+            StringThings.ValueOfThings=strList;
+            StringThings.PrintThingsValue();
 
-            name.value = "Joe";
+            // Creating a object of Employee with int
+            Employee<int> IntThings = new Employee<int>();
+            List<int> intList = new List<int>() { 1,2};
+            IntThings.ValueOfThings = intList;
+            IntThings.PrintThingsValue();
 
-
-
-
-
-            Employee<float> version = new Employee<float>();
-
-            version.value = 5.0F;
-
-
-
-            
-
-            Console.WriteLine(name.value);
-
-
-
-            
-
-            Console.WriteLine(version.value);
 
         }
     }

@@ -11,3 +11,14 @@ C:\Users\Hp\OneDrive\Documents\Project\GenericsAssigment\GenericsAssigment\obj\D
 C:\Users\Hp\OneDrive\Documents\Project\GenericsAssigment\GenericsAssigment\obj\Debug\netcoreapp3.1\GenericsAssigment.dll
 C:\Users\Hp\OneDrive\Documents\Project\GenericsAssigment\GenericsAssigment\obj\Debug\netcoreapp3.1\GenericsAssigment.pdb
 C:\Users\Hp\OneDrive\Documents\Project\GenericsAssigment\GenericsAssigment\obj\Debug\netcoreapp3.1\GenericsAssigment.genruntimeconfig.cache
+D:\personaldocs\ausproject\donNet\Project\GenericsAssigment\GenericsAssigment\bin\Debug\netcoreapp3.1\GenericsAssigment.exe
+D:\personaldocs\ausproject\donNet\Project\GenericsAssigment\GenericsAssigment\bin\Debug\netcoreapp3.1\GenericsAssigment.deps.json
+D:\personaldocs\ausproject\donNet\Project\GenericsAssigment\GenericsAssigment\bin\Debug\netcoreapp3.1\GenericsAssigment.runtimeconfig.json
+D:\personaldocs\ausproject\donNet\Project\GenericsAssigment\GenericsAssigment\bin\Debug\netcoreapp3.1\GenericsAssigment.runtimeconfig.dev.json
+D:\personaldocs\ausproject\donNet\Project\GenericsAssigment\GenericsAssigment\bin\Debug\netcoreapp3.1\GenericsAssigment.dll
+D:\personaldocs\ausproject\donNet\Project\GenericsAssigment\GenericsAssigment\bin\Debug\netcoreapp3.1\GenericsAssigment.pdb
+D:\personaldocs\ausproject\donNet\Project\GenericsAssigment\GenericsAssigment\obj\Debug\netcoreapp3.1\GenericsAssigment.csprojAssemblyReference.cache
+D:\personaldocs\ausproject\donNet\Project\GenericsAssigment\GenericsAssigment\obj\Debug\netcoreapp3.1\GenericsAssigment.AssemblyInfoInputs.cache
+D:\personaldocs\ausproject\donNet\Project\GenericsAssigment\GenericsAssigment\obj\Debug\netcoreapp3.1\GenericsAssigment.AssemblyInfo.cs
+D:\personaldocs\ausproject\donNet\Project\GenericsAssigment\GenericsAssigment\obj\Debug\netcoreapp3.1\GenericsAssigment.dll
+D:\personaldocs\ausproject\donNet\Project\GenericsAssigment\GenericsAssigment\obj\Debug\netcoreapp3.1\GenericsAssigment.pdb
