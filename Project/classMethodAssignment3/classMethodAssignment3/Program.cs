@@ -9,16 +9,17 @@ namespace classMethodAssignment3
         {
             Calc calc = new Calc();
             Console.WriteLine("please Enter  number");
-            int a = Convert.ToInt32(Console.ReadLine());
-            int b=0;
-            calc.Add(a, b);
+            int firstnumber= Convert.ToInt32(Console.ReadLine());
+            int secondNumber=0;
+            calc.Add(a:firstnumber, b: secondNumber);
+            
         }
     }
     class Calc
     {
         public void Add(int a,int b)
         {
-            b = a + a;
+            int c = a + a;
             Console.WriteLine(b);
         }
     }
