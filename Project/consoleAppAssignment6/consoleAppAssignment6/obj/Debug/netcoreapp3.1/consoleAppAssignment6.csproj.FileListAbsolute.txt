@@ -11,3 +11,14 @@ C:\Users\Hp\OneDrive\Documents\Project\consoleAppAssignment6\consoleAppAssignmen
 C:\Users\Hp\OneDrive\Documents\Project\consoleAppAssignment6\consoleAppAssignment6\obj\Debug\netcoreapp3.1\consoleAppAssignment6.dll
 C:\Users\Hp\OneDrive\Documents\Project\consoleAppAssignment6\consoleAppAssignment6\obj\Debug\netcoreapp3.1\consoleAppAssignment6.pdb
 C:\Users\Hp\OneDrive\Documents\Project\consoleAppAssignment6\consoleAppAssignment6\obj\Debug\netcoreapp3.1\consoleAppAssignment6.genruntimeconfig.cache
+D:\personaldocs\ausproject\donNet\Project\consoleAppAssignment6\consoleAppAssignment6\bin\Debug\netcoreapp3.1\consoleAppAssignment6.exe
+D:\personaldocs\ausproject\donNet\Project\consoleAppAssignment6\consoleAppAssignment6\bin\Debug\netcoreapp3.1\consoleAppAssignment6.deps.json
+D:\personaldocs\ausproject\donNet\Project\consoleAppAssignment6\consoleAppAssignment6\bin\Debug\netcoreapp3.1\consoleAppAssignment6.runtimeconfig.json
+D:\personaldocs\ausproject\donNet\Project\consoleAppAssignment6\consoleAppAssignment6\bin\Debug\netcoreapp3.1\consoleAppAssignment6.runtimeconfig.dev.json
+D:\personaldocs\ausproject\donNet\Project\consoleAppAssignment6\consoleAppAssignment6\bin\Debug\netcoreapp3.1\consoleAppAssignment6.dll
+D:\personaldocs\ausproject\donNet\Project\consoleAppAssignment6\consoleAppAssignment6\bin\Debug\netcoreapp3.1\consoleAppAssignment6.pdb
+D:\personaldocs\ausproject\donNet\Project\consoleAppAssignment6\consoleAppAssignment6\obj\Debug\netcoreapp3.1\consoleAppAssignment6.csprojAssemblyReference.cache
+D:\personaldocs\ausproject\donNet\Project\consoleAppAssignment6\consoleAppAssignment6\obj\Debug\netcoreapp3.1\consoleAppAssignment6.AssemblyInfoInputs.cache
+D:\personaldocs\ausproject\donNet\Project\consoleAppAssignment6\consoleAppAssignment6\obj\Debug\netcoreapp3.1\consoleAppAssignment6.AssemblyInfo.cs
+D:\personaldocs\ausproject\donNet\Project\consoleAppAssignment6\consoleAppAssignment6\obj\Debug\netcoreapp3.1\consoleAppAssignment6.dll
+D:\personaldocs\ausproject\donNet\Project\consoleAppAssignment6\consoleAppAssignment6\obj\Debug\netcoreapp3.1\consoleAppAssignment6.pdb
