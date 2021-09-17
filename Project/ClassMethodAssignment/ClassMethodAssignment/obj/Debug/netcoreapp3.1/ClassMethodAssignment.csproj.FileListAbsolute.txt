@@ -11,3 +11,14 @@ C:\Users\lenovo\Downloads\Console Assigment & Asp mvc Assigment\Project\ClassMet
 C:\Users\lenovo\Downloads\Console Assigment & Asp mvc Assigment\Project\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.1\ClassMethodAssignment.dll
 C:\Users\lenovo\Downloads\Console Assigment & Asp mvc Assigment\Project\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.1\ClassMethodAssignment.pdb
 C:\Users\lenovo\Downloads\Console Assigment & Asp mvc Assigment\Project\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.1\ClassMethodAssignment.genruntimeconfig.cache
+D:\personaldocs\ausproject\donNet\Project\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\netcoreapp3.1\ClassMethodAssignment.exe
+D:\personaldocs\ausproject\donNet\Project\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\netcoreapp3.1\ClassMethodAssignment.deps.json
+D:\personaldocs\ausproject\donNet\Project\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\netcoreapp3.1\ClassMethodAssignment.runtimeconfig.json
+D:\personaldocs\ausproject\donNet\Project\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\netcoreapp3.1\ClassMethodAssignment.runtimeconfig.dev.json
+D:\personaldocs\ausproject\donNet\Project\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\netcoreapp3.1\ClassMethodAssignment.dll
+D:\personaldocs\ausproject\donNet\Project\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\netcoreapp3.1\ClassMethodAssignment.pdb
+D:\personaldocs\ausproject\donNet\Project\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.1\ClassMethodAssignment.csprojAssemblyReference.cache
+D:\personaldocs\ausproject\donNet\Project\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.1\ClassMethodAssignment.AssemblyInfoInputs.cache
+D:\personaldocs\ausproject\donNet\Project\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.1\ClassMethodAssignment.AssemblyInfo.cs
+D:\personaldocs\ausproject\donNet\Project\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.1\ClassMethodAssignment.dll
+D:\personaldocs\ausproject\donNet\Project\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.1\ClassMethodAssignment.pdb
