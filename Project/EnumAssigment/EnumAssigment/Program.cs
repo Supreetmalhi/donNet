@@ -4,27 +4,23 @@ namespace EnumAssigment
 {
     class Program
     {
-        static void Main(string[] args)
+		enum DayofWeek { Sunday = 1, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday };
+		static void Main(string[] args)
         {
-			DayOfWeek today = DateTime.Today.DayOfWeek;
-			Console.WriteLine("Today is {0}",
-				today);
 
-			
-			if (today == DayOfWeek.Monday)
+			try
 			{
-				Console.WriteLine("DO WORK");
+				Console.WriteLine("Enter current day of the week:");
+
+				string Day = Console.ReadLine();
+				object f = Enum.Parse(typeof(DayofWeek),Day);
+			}
+			catch(Exception ex)
+			{
+				Console.WriteLine("Please enter an actual day of the week");
 			}
 
 			
-			Console.WriteLine("{0}, {1}, {2}, {3}, {4}, {5}, {6}",
-				DayOfWeek.Monday,
-				DayOfWeek.Tuesday,
-				DayOfWeek.Wednesday,
-				DayOfWeek.Thursday,
-				DayOfWeek.Friday,
-				DayOfWeek.Saturday,
-				DayOfWeek.Sunday);
 		}
 	}
     }
