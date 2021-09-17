@@ -79,17 +79,22 @@ namespace LambdaExpressionAssignment
             Console.WriteLine("Using Lambda");
 
 
-            List<Emp> EmpDataList = new List<Emp>();
-            
-          foreach(Emp item in  emps.FindAll(item => item.firstName.Equals("Joe")))
-           {
-                Emp obj = new Emp();
-                obj.EmpId = item.EmpId;
-                obj.firstName = item.firstName;
-                obj.LastName = item.LastName;
-                EmpDataList.Add(obj);
+            List<Emp> EmpDataList = emps.FindAll(item => item.firstName.ToLower()=="joe");
 
-            }
+            Console.WriteLine("List of Employees which have id greater than 5 using lambda expression");
+
+            List<Emp> EmpGreaterThanFive = emps.FindAll(item=>item.EmpId>5);
+
+
+            //foreach (Emp item in  emps.FindAll(item => item.firstName.Equals("Joe")))
+            // {
+            //      Emp obj = new Emp();
+            //      obj.EmpId = item.EmpId;
+            //      obj.firstName = item.firstName;
+            //      obj.LastName = item.LastName;
+            //      EmpDataList.Add(obj);
+
+            //  }
 
             Console.ReadLine();
         }

@@ -10,3 +10,14 @@ C:\Users\Hp\OneDrive\Documents\Project\LambdaExpressionAssignment\LambdaExpressi
 C:\Users\Hp\OneDrive\Documents\Project\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\netcoreapp3.1\LambdaExpressionAssignment.dll
 C:\Users\Hp\OneDrive\Documents\Project\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\netcoreapp3.1\LambdaExpressionAssignment.pdb
 C:\Users\Hp\OneDrive\Documents\Project\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\netcoreapp3.1\LambdaExpressionAssignment.genruntimeconfig.cache
+D:\personaldocs\ausproject\donNet\Project\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\netcoreapp3.1\LambdaExpressionAssignment.exe
+D:\personaldocs\ausproject\donNet\Project\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\netcoreapp3.1\LambdaExpressionAssignment.deps.json
+D:\personaldocs\ausproject\donNet\Project\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\netcoreapp3.1\LambdaExpressionAssignment.runtimeconfig.json
+D:\personaldocs\ausproject\donNet\Project\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\netcoreapp3.1\LambdaExpressionAssignment.runtimeconfig.dev.json
+D:\personaldocs\ausproject\donNet\Project\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\netcoreapp3.1\LambdaExpressionAssignment.dll
+D:\personaldocs\ausproject\donNet\Project\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\netcoreapp3.1\LambdaExpressionAssignment.pdb
+D:\personaldocs\ausproject\donNet\Project\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\netcoreapp3.1\LambdaExpressionAssignment.csprojAssemblyReference.cache
+D:\personaldocs\ausproject\donNet\Project\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\netcoreapp3.1\LambdaExpressionAssignment.AssemblyInfoInputs.cache
+D:\personaldocs\ausproject\donNet\Project\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\netcoreapp3.1\LambdaExpressionAssignment.AssemblyInfo.cs
+D:\personaldocs\ausproject\donNet\Project\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\netcoreapp3.1\LambdaExpressionAssignment.dll
+D:\personaldocs\ausproject\donNet\Project\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\netcoreapp3.1\LambdaExpressionAssignment.pdb
