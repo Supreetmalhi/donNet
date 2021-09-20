@@ -14,16 +14,14 @@ namespace EnumAssigment
 
 				string Day = Console.ReadLine();
 				object f = Enum.Parse(typeof(DayofWeek),Day);
+				Console.WriteLine("Enum:-");
+				Console.WriteLine(f.ToString());
 			}
 			catch(Exception ex)
 			{
 				Console.WriteLine("Please enter an actual day of the week");
 			}
-			Console.WriteLine("Enum:-");
-			foreach (DayofWeek day in Enum.GetValues(typeof(DayofWeek)))
-			{
-				Console.WriteLine(day);
-			}
+			
 
 
 		}
