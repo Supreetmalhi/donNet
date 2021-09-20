@@ -10,6 +10,9 @@ namespace ClassMethodAssignment
             Console.WriteLine("Enter the number:");
             string number = Console.ReadLine();
             c.add(Int32.Parse(number));
+            Console.WriteLine("Using the out parameter");
+            c.getString(out string x);
+            Console.WriteLine(x);
 
         }
     }

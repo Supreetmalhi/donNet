@@ -21,6 +21,11 @@ namespace ClassMethodAssignment
             int c = Convert.ToInt32(a) + Convert.ToInt32(b);
             Console.WriteLine(c);
         }
+        public void getString(out string x)
+        {
+            int temp = 5;
+            x = temp.ToString(); ;
+        }
 
     }
 }
