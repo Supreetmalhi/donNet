@@ -19,8 +19,13 @@ namespace EnumAssigment
 			{
 				Console.WriteLine("Please enter an actual day of the week");
 			}
+			Console.WriteLine("Enum:-");
+			foreach (DayofWeek day in Enum.GetValues(typeof(DayofWeek)))
+			{
+				Console.WriteLine(day);
+			}
 
-			
+
 		}
 	}
     }
