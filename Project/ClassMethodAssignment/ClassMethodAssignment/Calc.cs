@@ -8,8 +8,13 @@ namespace ClassMethodAssignment
     {
         public void add(int a)
         {
-            int c = a /2;
-            Console.WriteLine(c);
+            
+            Console.WriteLine(a);
+        }
+        public int divide(int a)
+        {
+            int c = a / 2;
+            return c;
         }
         public void add(float a, float b)
         {
@@ -21,11 +26,7 @@ namespace ClassMethodAssignment
             int c = Convert.ToInt32(a) + Convert.ToInt32(b);
             Console.WriteLine(c);
         }
-        public void getString(out string x)
-        {
-            int temp = 5;
-            x = temp.ToString(); ;
-        }
+       
 
     }
 }
