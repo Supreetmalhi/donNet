@@ -1,0 +1,38 @@
+﻿@model List<AssignmentPart4.Models.Insurance>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 class="center-block">List Of Insurance Quote</h2>
+<div class="container ">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col">FirstName</th>
+                <th scope="col">LastName</th>
+                <th scope="col">Age</th>
+                <th scope="col">Email</th>
+                <th scope="col">CarName</th>
+                <th scope="col">CarModel</th>
+                <th scope="col">CarYear</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var insu in Model)
+            {
+            <tr>
+                <td >@insu.FirstName</td>
+                <td> @insu.LastName</td>
+                <td>@insu.Age</td>
+                <td> @insu.Email</td>
+                <td> @insu.CarName</td>
+                <td> @insu.CarModel</td>
+                <td> @insu.CarYear</td>
+            </tr>
+                
+
+            }
+        </tbody>
+        </table>
+</div>
+
